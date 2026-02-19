@@ -28,7 +28,6 @@ int main () {
     {
        cout<<"Q1";
        
-
     }
     else if (x<0 && y>0)
     {
